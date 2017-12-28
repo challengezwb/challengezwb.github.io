@@ -10,8 +10,6 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-
-
 body {
   margin: 0;
 }
@@ -5993,7 +5991,7 @@ button.close {
           transform: translate3d(0, 0, 0);
 }
 @-ms-viewport {
-  width: device-width;
+  width: auto;
 }
 .visible-xs,
 .visible-sm,
